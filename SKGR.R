@@ -3,3 +3,5 @@
 #this is a second line
 
 #third line
+
+install.packages("wow")
