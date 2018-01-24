@@ -5,3 +5,4 @@
 #third line
 
 install.packages("wow")
+library(wow)
